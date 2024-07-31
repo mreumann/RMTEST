@@ -1,4 +1,10 @@
 Ich möchte das Marc das hier nicht lesen kann
 
+<<<<<<< Updated upstream
 
 Marc test
+=======
+Robin blabla
+
+Stash
+>>>>>>> Stashed changes
